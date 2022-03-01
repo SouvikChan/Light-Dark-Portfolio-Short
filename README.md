@@ -1,4 +1,4 @@
-# light-dark-mode
+# Light-Dark-Portfolio-Short
 A website with light and dark mode switch for dynamic styles
 
 Link : https://souvikchan.github.io/Light-Dark-Portfolio-Short/
